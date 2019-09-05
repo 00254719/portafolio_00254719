@@ -1,0 +1,59 @@
+Gerson Javier Quintanilla Sanchez
+00254719
+
+
+//Ejercicio 1//
+
+Int sacar2datos (stacks){
+p=inicializar la pila
+int i;
+
+func(); 
+if(!empty(p)){
+i=pop(p)
+
+if(!empty(p)){
+i=pop(p)
+
+else
+
+ cout<<La fila solo tiene un valor o esta vacia;
+
+//Ejercicio 2//
+
+Int sacar2datos(stacks){
+
+p=inicializar la pila
+int i,a; 
+
+fuc()
+if(!empty(p)){
+a=pop(p)
+
+if(!empty(p)){
+i=peek(p)
+push(s,a)
+
+else
+    solo tiene un dato
+
+else
+cout<<esta vacia;
+
+//Ejercicio 3// 
+
+p=inicializar la pila
+int i; 
+
+if(!empty){
+while(!empty){
+	i=pop
+
+else
+    cout<<Su pila esta vacia;
+
+
+
+
+
+
