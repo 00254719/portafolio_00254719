@@ -11,17 +11,17 @@ return(n + func(n-1));
 	
 	int func2(int n){
 		
-		int number=0;
+		int num=0;
 		int aux=0;
 		for(int i=0;i<=n;i++){
-			number= i+aux;
-			aux=number;
+			num= i+aux;
+			aux=num;
 			
 		}
 		
 
 		
-		return(number);
+		return(num);
 	}
 	
 	int main (){
@@ -32,6 +32,7 @@ return(n + func(n-1));
 		
 		cout<<func(n)<<endl;
 		cout<<func2(n)<<endl;
+		
 		return 0;
 	
 		}
