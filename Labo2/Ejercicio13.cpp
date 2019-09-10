@@ -9,30 +9,22 @@ if(n==0)
 return(n + func(n-1));
 	}
 	
-	int func2(int n){
-		
-		int num=0;
-		int aux=0;
-		for(int i=0;i<=n;i++){
-			num= i+aux;
-			aux=num;
-			
-		}
-		
 
-		
-		return(num);
-	}
-	
 	int main (){
 		
 		int n;
 		cout<<"Ingrese un numero: ";
 		cin>>n;
-		
+		cout<<"Funcion con recusrsividad:"<<endl;
 		cout<<func(n)<<endl;
-		cout<<func2(n)<<endl;
-		
-		return 0;
-	
+		int num=0;
+		int aux=0;
+		cout<<"Funcion con iteracion:"<<endl;
+		for(int i=0;i<=n;i++){
+			num= i+aux;
+			aux=num;	
 		}
+		cout<<num<<endl;
+		return 0;
+
+}
