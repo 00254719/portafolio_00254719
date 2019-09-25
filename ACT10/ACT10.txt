@@ -1,0 +1,13 @@
+A-B/(C*D$E)
+
+A-B/(CDE$*)
+AB-CDE$*/
+R// AB-CDE$*/-
+
+
+
+((A+B)*C-(D-E))$(F+G)
+
+((AB+)*C-(DE-))$(FG+)
+AB+C*DE--$FG+
+R// AB+C*DE--FG+$    
